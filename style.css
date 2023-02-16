@@ -1,3 +1,6 @@
-section{
-    background-color:brown;
+[class*="col"]{
+    padding: 1rem;
+    border: 2px solid aquamarine;
+    background-color: rgb(219, 241, 255);
+    color: gray;
 }
