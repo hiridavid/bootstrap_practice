@@ -1,3 +1,7 @@
+body{
+    background-image: linear-gradient(circle at top left, dimgrey, black 50%);
+}
+
 /* [class*="col"]{
     padding: 1rem;
     border: 2px solid aquamarine;
